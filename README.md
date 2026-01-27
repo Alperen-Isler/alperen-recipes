@@ -15,16 +15,20 @@ Each recipe page includes:
 ## What I Learned
 
 Through this project, I practiced:
-- basic HTML structure
+- semantic HTML structure
 - using headings (`h1`–`h6`)
 - creating links with anchor tags (`a`)
 - adding images (`img`)
 - working with ordered and unordered lists (`ol`, `ul`)
 - organizing files and folders in a project
+- linking multiple pages together
+- basic CSS styling
+- improving layout and readability with CSS
 
 ## Technologies Used
 
 - HTML5
+- CSS3
 
 ## Live Preview
 
