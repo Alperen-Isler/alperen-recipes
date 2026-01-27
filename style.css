@@ -1,5 +1,6 @@
 *{
     font-family: Papyrus, 'Times New Roman', Times, serif;
+    background-color: #ccc;
 }
 
 .title{
@@ -13,6 +14,11 @@
 
 .recipe{
     text-decoration: none;
+}
+
+.recipe-title{
+    margin-top: 50px;
+    margin-bottom: 2px;
 }
 
 .hummus-picture{
