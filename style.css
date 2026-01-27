@@ -1,3 +1,7 @@
+*{
+    font-family: Papyrus, 'Times New Roman', Times, serif;
+}
+
 #title{
     text-align: center;
     text-decoration: underline;
