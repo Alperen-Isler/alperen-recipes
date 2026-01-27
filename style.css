@@ -1,6 +1,42 @@
 #title{
     text-align: center;
+    text-decoration: underline;
 }
 
 .recipe-list{
+    list-style: none;
+}
+
+.recipe{
+    text-decoration: none;
+}
+
+#hummus-picture{
+    width: 300px;
+    height: auto;
+    border: solid 3px black;
+}
+
+#hummus-picture:hover{
+    border: solid 3px blue;
+}
+
+#neapolitan-pizza-picture{
+    width: 300px;
+    height: auto;
+    border: solid 3px black;
+}
+
+#neapolitan-pizza-picture:hover{
+    border: solid 3px blue;
+}
+
+#pesto-pasta-picture{
+    width: 300px;
+    height: auto;
+    border: solid 3px black;
+}
+
+#pesto-pasta-picture:hover{
+    border: solid 3px blue;
 }
