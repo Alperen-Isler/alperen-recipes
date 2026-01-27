@@ -2,7 +2,7 @@
     font-family: Papyrus, 'Times New Roman', Times, serif;
 }
 
-#title{
+.title{
     text-align: center;
     text-decoration: underline;
 }
@@ -15,32 +15,32 @@
     text-decoration: none;
 }
 
-#hummus-picture{
+.hummus-picture{
     width: 500px;
     height: auto;
     border: solid 3px black;
 }
 
-#hummus-picture:hover{
+.hummus-picture:hover{
     border: solid 3px blue;
 }
 
-#neapolitan-pizza-picture{
+.neapolitan-pizza-picture{
     width: 500px;
     height: auto;
     border: solid 3px black;
 }
 
-#neapolitan-pizza-picture:hover{
+.neapolitan-pizza-picture:hover{
     border: solid 3px blue;
 }
 
-#pesto-pasta-picture{
+.pesto-pasta-picture{
     width: 500px;
     height: auto;
     border: solid 3px black;
 }
 
-#pesto-pasta-picture:hover{
+.pesto-pasta-picture:hover{
     border: solid 3px blue;
 }
